@@ -1,9 +1,10 @@
 # FairDomain
 > [**ECCV 2024**] [**FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling**](https://arxiv.org/pdf/2311.02189.pdf)
 >
-> by [Yu Tian*](https://yutianyt.com/), [Congcong Wen*](), [Min Shi*](https://shiminxst.github.io/index.html), Muhammad Muneeb Afzal, Hao Huang, Muhammad Osama Khan, [Yan Luo](https://luoyan407.github.io/), [Yi Fang](http://www.tobias-elze.de/), and [Mengyu Wang](https://ophai.hms.harvard.edu/team/dr-wang/).
+> by [Yu Tian*](https://yutianyt.com/), [Congcong Wen*](https://wencc.xyz/), [Min Shi*](https://shiminxst.github.io/index.html), Muhammad Muneeb Afzal, Hao Huang, Muhammad Osama Khan, [Yan Luo](https://luoyan407.github.io/), [Yi Fang](https://engineering.nyu.edu/faculty/yi-fang), and [Mengyu Wang](https://ophai.hms.harvard.edu/team/dr-wang/).
 >
-[intro.pdf](https://github.com/user-attachments/files/16181078/intro.pdf)
+![intro](https://github.com/Harvard-Ophthalmology-AI-Lab/FairDomain/assets/19222962/e6d5afe0-8262-473a-83e3-381b3f51cbbd)
+
 
 
 
@@ -16,3 +17,4 @@
 
 * Please refer to each folder for classification and segmentation tasks, respectively. 
 
+## Please stay tunned for our code release
