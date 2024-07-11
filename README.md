@@ -1,5 +1,5 @@
 # FairDomain
-> [**ECCV 2024**] [**FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling**](https://arxiv.org/pdf/2311.02189.pdf)
+> [**ECCV 2024**] [**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**]()
 >
 > by [Yu Tian*](https://yutianyt.com/), [Congcong Wen*](https://wencc.xyz/), [Min Shi*](https://shiminxst.github.io/index.html), Muhammad Muneeb Afzal, Hao Huang, Muhammad Osama Khan, [Yan Luo](https://luoyan407.github.io/), [Yi Fang](https://engineering.nyu.edu/faculty/yi-fang), and [Mengyu Wang](https://ophai.hms.harvard.edu/team/dr-wang/).
 >
