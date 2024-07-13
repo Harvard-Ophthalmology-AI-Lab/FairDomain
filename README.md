@@ -15,6 +15,6 @@
 
 * If you cannot directly download the FairDomain dataset, please request access in the above Google Drive link, we will make sure to grant you access within 3-5 days. 
 
-* Please refer to each folder for classification and segmentation tasks, respectively. 
 
-## Please stay tunned for our code release
+
+## Please refer to each folder (Dataset and Code) for classification and segmentation tasks, respectively. 
