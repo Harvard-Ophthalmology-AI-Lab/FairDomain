@@ -13,8 +13,7 @@
 
 * Alternatively, you could also use this [**Google Drive link**](https://drive.google.com/drive/folders/1huH93JVeXMj9rK6p1OZRub868vv0UK0O?usp=sharing) to directly download our FairDomain dataset.
 
-* If you cannot directly download the FairDomain dataset, please request access in the above Google Drive link, we will make sure to grant you access within 3-5 days. 
-
+* If you cannot directly download the FairDomain dataset, please request access using the above Google Drive link, we will make sure to grant you access within 3-5 days. 
 
 
 ## Please refer to each folder (Dataset and Code) for classification and segmentation tasks, respectively. 
