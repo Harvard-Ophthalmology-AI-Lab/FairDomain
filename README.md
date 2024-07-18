@@ -16,4 +16,19 @@
 * If you cannot directly download the FairDomain dataset, please request access using the above Google Drive link, we will make sure to grant you access within 3-5 days. 
 
 
-## Please refer to each folder (Dataset and Code) for classification and segmentation tasks, respectively. 
+## Please refer to each folder (Dataset and Code) for classification and segmentation tasks, respectively.
+
+## Acknowledgement and Citation
+
+
+If you find this repository useful for your research, please consider citing our [paper](https://arxiv.org/pdf/2407.08813):
+
+```bibtex
+@article{tian2024fairdomain,
+  title={FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification},
+  author={Tian, Yu and Wen, Congcong and Shi, Min and Afzal, Muhammad Muneeb and Huang, Hao and Khan, Muhammad Osama and Luo, Yan and Fang, Yi and Wang, Mengyu},
+  journal={arXiv preprint arXiv:2407.08813},
+  year={2024}
+}
+
+```
