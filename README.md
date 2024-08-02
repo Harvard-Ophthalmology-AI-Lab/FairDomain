@@ -9,6 +9,8 @@
 
 
 ## Download FairDomain Dataset
+* Harvard FairDomain (Harvard-FairDomain): This Harvard-FairDomain dataset includes data for both segmentation and classification tasks for studying fairness in domain shift. For the segmentation task, 10,000 samples from 10,000 patients are included. For the classification task, 10,000 samples from 10,000 patients are included. The samples from Harvard-FairDomain dataset are derived from [Harvard-FairSeg](https://github.com/Harvard-Ophthalmology-AI-Lab/FairSeg) and [Fair-FairVLMed](https://github.com/Harvard-Ophthalmology-AI-Lab/FairCLIP) with an added imaging modality of en-face fundus image in addition to the imaging modality of scanning laser ophthalmoscopy (SLO) fundus image originally in the two datasets.
+  
 * Here is the data download link for [**Harvard-FairDomain**](https://drive.google.com/drive/folders/1huH93JVeXMj9rK6p1OZRub868vv0UK0O?usp=drive_link).
 
 * If you cannot directly download the FairDomain dataset, please request access using the above Google Drive link, we will make sure to grant you access within 3-5 days. 
