@@ -1,7 +1,7 @@
 # FairDomain
 > [**ECCV 2024**] [**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**](https://arxiv.org/pdf/2407.08813)
 >
-> by [Yu Tian*](https://yutianyt.com/), [Congcong Wen*](https://wencc.xyz/), [Min Shi*](https://shiminxst.github.io/index.html), Muhammad Muneeb Afzal, Hao Huang, Muhammad Osama Khan, [Yan Luo](https://luoyan407.github.io/), [Yi Fang](https://engineering.nyu.edu/faculty/yi-fang), and [Mengyu Wang](https://ophai.hms.harvard.edu/team/dr-wang/).
+> by [Yu Tian*](https://yutianyt.com/), [Congcong Wen*](https://wencc.xyz/), [Min Shi*](https://shiminxst.github.io/index.html), Muhammad Muneeb Afzal, Hao Huang, Muhammad Osama Khan, [Yan Luo](https://luoyan407.github.io/), [Yi Fang](https://engineering.nyu.edu/faculty/yi-fang), and [Mengyu Wang](https://wang.hms.harvard.edu/team/dr-wang/).
 >
 ![intro](https://github.com/Harvard-Ophthalmology-AI-Lab/FairDomain/assets/19222962/e6d5afe0-8262-473a-83e3-381b3f51cbbd)
 
